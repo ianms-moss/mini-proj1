@@ -6,6 +6,7 @@ html, body {
     width:100%;
     height:100%;
     margin:auto;
+    background-color: rgb(241, 224, 202);
 }
 
 header{
@@ -131,7 +132,7 @@ img {
 }
 
 .image-heading {
-    padding-top: 4em;
+    padding-top: 4.5em;
     font-weight: 900;
     text-align: center;
 }
@@ -145,6 +146,8 @@ img {
 }
 
 p {
-    text-align: center;
+    text-align: left;
+    margin-left: 300px;
+    margin-right: 300px;
     padding: 10px;
 }
